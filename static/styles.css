@@ -1,0 +1,11 @@
+@media (min-width: 992px) {
+  .card {
+    width: 50% !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .btn {
+    width: 100% !important;
+  }
+}
